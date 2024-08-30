@@ -19,14 +19,14 @@ O HealthMonitor Dashboard é uma aplicação de desktop desenvolvida em .NET, pr
 ---
  
 ### 🚀 Como Começar
-Clone o Repositório:
-
-1. Copiar código
-git clone https://github.com/DaniMiyuki/Dashboard.git
-2. Instale as Dependências: Certifique-se de ter o .NET instalado. Execute:
-dotnet restore
-3. Compile e Execute:
-dotnet run
+1. Clone o Repositório:  
+*git clone https://github.com/DaniMiyuki/Dashboard.git*
+2. Instale as Dependências.
+3. Certifique-se de ter o .NET instalado.
+4. Execute:  
+*dotnet restore*
+5. Compile e Execute:  
+*dotnet run*
 
 ---
  
