@@ -23,13 +23,9 @@ Clone o Repositório:
 
 1. Copiar código
 git clone https://github.com/DaniMiyuki/Dashboard.git
-Instale as Dependências: Certifique-se de ter o .NET instalado. Execute:
-
-2. Copiar código
+2. Instale as Dependências: Certifique-se de ter o .NET instalado. Execute:
 dotnet restore
-Compile e Execute:
-
-3. Copiar código
+3. Compile e Execute:
 dotnet run
 
 ---
