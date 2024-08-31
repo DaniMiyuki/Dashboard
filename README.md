@@ -1,4 +1,3 @@
-<!--
 # 🌟 HealthMonitor Dashboard 🌟
 
 
@@ -56,4 +55,3 @@ Um grande obrigado a todos que apoiaram e contribuíram para este projeto. Cada 
  
 
 **🔔E lembre-se: sua saúde merece cuidado constante. Deixe o HealthMonitor Dashboard ser seu guia nessa jornada! 🌱**
--->
